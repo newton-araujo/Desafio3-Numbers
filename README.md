@@ -12,8 +12,10 @@
         <li>num2: Solicita ao usuário que insira um valor fracionado (ponto flutuante)       usando a função input e converte o valor para um número de ponto flutuante usando float().        </li>
       </ul>
 </ul>
-  num1 = int(input('Digite um valor inteiro: '))
+<p>
+  num1 = int(input('Digite um valor inteiro: '))<br>
   num2 = float(input('Digite um valor fracionado: '))
+</p>
 <ul>
   <li><b>Saida:</b</li>
   <ul>
